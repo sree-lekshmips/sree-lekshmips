@@ -18,7 +18,7 @@
 
 <td width="30%" align="center">
 
-<img src="./avatar.png" width="180"/>
+<img src="./avatar.jpeg" width="180"/>
 
 </td>
 </tr>
