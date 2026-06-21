@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreelekshmi </h1>
 
-<p align="center">
-  <img src="./avatar.png" width="220" alt="Sreelekshmi Avatar"/>
-</p>
-
 <h3 align="center"> Data Science Student | Building AI for Social Impact</h3>
 
 <p align="center">
