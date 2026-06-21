@@ -8,29 +8,29 @@
 
 *Transforming data into meaningful solutions through AI and Machine Learning.*
 
-- 🎓 Integrated M.Sc. Computer Science (Data Science)
-- 🌱 Currently learning Deep Learning, Computer Vision & AI
-- 🚀 Working on an AI-Powered Navigation Assistant for Visually Impaired People
-- 💡 Interested in Data Science, Machine Learning, Computer Vision, and Analytics
-- ⚡ Fun Fact: I believe every dataset hides a story waiting to be discovered.
+- Integrated M.Sc. Computer Science (Data Science)
+- Currently learning Deep Learning, Computer Vision & AI
+- Working on an AI-Powered Navigation Assistant for Visually Impaired People
+- Interested in Data Science, Machine Learning, Computer Vision, and Analytics
+- I believe every dataset hides a story waiting to be discovered.
 
 </td>
 
-<td width="30%">
+<td width="30%" align="center">
 
-<img src="./avatar.png" width="220"/>
+<img src="./avatar.png" width="180"/>
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,mysql,git,github,vscode" />
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 
 - TensorFlow
 - Scikit-Learn
