@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,django,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,mysql,git,github,vscode" />
 </p>
 
 ### 🤖 AI / ML
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🦯 AI-Powered Navigation Assistant for Visually Impaired People
 An assistive Computer Vision system that detects obstacles, recognizes surroundings, and provides real-time voice guidance to help visually impaired individuals navigate independently and safely.
@@ -56,7 +56,7 @@ A Machine Learning and Django-based web application that predicts anemia severit
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sree-lekshmips&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -68,13 +68,14 @@ A Machine Learning and Django-based web application that predicts anemia severit
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/sreelekshmi-p-s-202b25329">
+  <a href="https://www.linkedin.com/in/sreelekshmi-p-s-202b25329/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
+
   <a href="https://github.com/sree-lekshmips">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
