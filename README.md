@@ -55,10 +55,6 @@ A Machine Learning and Django-based web application that predicts anemia severit
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sree-lekshmips&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree-lekshmips&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
