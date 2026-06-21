@@ -15,12 +15,6 @@
 - I believe every dataset hides a story waiting to be discovered.
 
 </td>
-
-<td width="30%" align="center">
-
-<img src="./avatar.jpeg" width="180"/>
-
-</td>
 </tr>
 </table>
 
