@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sreelekshmi PS</h1>
+<table>
+<tr>
+<td width="70%">
 
-<p align="center">
-  <img src="./avatar.jpeg" width="220" alt="Sreelekshmi Avatar"/>
-</p>
+# Hi 👋, I'm Sreelekshmi PS
 
-<h3 align="center">📊 Data Science Student | Building AI for Social Impact</h3>
+### 📊 Data Science Student | Building AI for Social Impact
 
-<p align="center">
-  <i>Transforming data into meaningful solutions through AI and Machine Learning.</i>
-</p>
-
----
-
-## 👩‍💻 About Me
+*Transforming data into meaningful solutions through AI and Machine Learning.*
 
 - 🎓 Integrated M.Sc. Computer Science (Data Science)
 - 🌱 Currently learning Deep Learning, Computer Vision & AI
@@ -20,7 +14,15 @@
 - 💡 Interested in Data Science, Machine Learning, Computer Vision, and Analytics
 - ⚡ Fun Fact: I believe every dataset hides a story waiting to be discovered.
 
----
+</td>
+
+<td width="30%">
+
+<img src="./avatar.png" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
